@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mojesh-1322&label=Profile%20views&color=0e75b6&style=flat" alt="mojesh-1322" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mojesh-1322" alt="mojesh-1322" /></a> </p>
-
 - 🔭 I’m currently working on **frontend**
 
 - 🌱 I’m currently learning **React, Adv Java, Spring, Spring Boot**
 
-- 📫 What is the best way to contact me? **mojeshlam823@gmail.com**
+- 📫 What is the best way to contact me? **www.linkedin.com/in/vidyardhi-lamu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vidyardhi lamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidyardhi lamu" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/vidyardhi-lamu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vidyardhi-lamu" height="30" width="40" /></a>
 <a href="https://instagram.com/mojesh._.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mojesh._.07" height="30" width="40" /></a>
 </p>
 
